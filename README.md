@@ -2,6 +2,7 @@
 
 A professional, real-time dashboard for monitoring, detecting, and preventing fraudulent activities in DeFi and Web3 ecosystems using AI and machine learning.
 
+LIVE - https://ai-powered-de-fi-fraud-detection.vercel.app/
 ---
 
 **Features**
