@@ -70,4 +70,8 @@ src/
 
 **License**
 
+<<<<<<< HEAD
 This project is licensed under the MIT License. 
+=======
+This project is licensed under the [MIT License](LICENSE). 
+>>>>>>> f21895e0a2135eac5e41d5940cd5e7bfce3bd6a7
