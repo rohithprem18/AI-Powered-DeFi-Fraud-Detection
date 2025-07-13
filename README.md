@@ -15,12 +15,6 @@ A professional, real-time dashboard for monitoring, detecting, and preventing fr
 
 ---
 
-**Machine Learning Model**
-
-> **Note:** This project currently uses a **sample/simulated ML model** for demonstration purposes. For real-world accuracy, you can integrate your own machine learning model by connecting to your backend or inference API. The dashboard is designed to be easily extensible for custom AI/ML integrations.
-
----
-
 **Getting Started**
 
 **Prerequisites:**
@@ -46,12 +40,13 @@ yarn dev
 
 Open [http://localhost:5173](http://localhost:5173) to view the dashboard in your browser.
 
+---
 
 **Tech Stack**
 - React (Vite, TypeScript)
 - Tailwind CSS (custom theme)
 - Lucide Icons
-- AI/ML Model Integration (simulated for demo, extensible for real models)
+- AI/ML Model Integration (simulated for demo)
 
 **Project Structure**
 ```
